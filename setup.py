@@ -36,7 +36,7 @@ setup(
     install_requires=[
         'six',
         'kombu>=3.0.35',
-        'msgpack-python>=0.4.7',
+        'msgpack>=0.6.1',
         'asgiref==1.1.2',
         'jsonpickle>=0.9.3',
     ],
